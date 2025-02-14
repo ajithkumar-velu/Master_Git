@@ -1,4 +1,4 @@
-"Hello Git"
+## Heyoo everyone, welcome to by guide!
 
-I'm adding this from,
+Yo, Johnny here!
 'feature-branch'
